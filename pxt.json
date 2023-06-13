@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "radio-broadcast": "*",
+        "iBIT": "github:emwta/pxt-ibit#v4.0.10"
     },
     "files": [
         "main.blocks",
